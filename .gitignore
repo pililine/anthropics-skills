@@ -3,3 +3,12 @@ __pycache__/
 .idea/
 .vscode/
 
+# secrets & local config – never commit to public repo
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials.json
+*.local.md
+
