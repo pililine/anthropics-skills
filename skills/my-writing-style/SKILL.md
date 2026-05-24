@@ -1,6 +1,6 @@
 ---
 name: my-writing-style
-description: Use this skill when helping me write, rewrite, polish, translate, or structure Chinese-English business communication, customer emails, sales reports, PPT copy, technical exchange materials, and professional messages in my preferred clear, practical, and business-professional style.
+description: Use this skill for general Chinese-English professional writing, rewriting, polishing, or translation when no more specific task skill applies, especially for quick message drafts, ad hoc rewrites, general wording improvement, or writing tasks not covered by a dedicated skill.
 ---
 
 # My Writing Style
@@ -38,7 +38,6 @@ When writing or polishing Chinese:
 - 优先把逻辑讲清楚，再考虑措辞优美。
 - 可以适度优化表达，但不要改变原意。
 - 避免过长句子，必要时拆成更容易阅读的短句。
-- 适合商务沟通、客户交流、项目总结、PPT 文案、销售计划和技术交流材料。
 - 标题和要点要更直接、更有层次。
 - 避免夸张营销话术，例如“革命性”“颠覆性”“行业领先”等，除非有明确事实支撑。
 
@@ -80,14 +79,7 @@ When structuring content:
 
 ## Business and technical communication
 
-For customer communication, sales planning, technical exchange, and internal summaries:
-
-- Focus on the business purpose and reader needs.
-- Be credible and solution-oriented.
-- Avoid unsupported claims.
-- Make the logic easy to follow.
-- Highlight key progress, risks, support needed, and next actions when relevant.
-- Keep the tone cooperative and professional.
+For business or technical content, keep the writing focused on the reader's needs, the business purpose, and the practical meaning of the information. Make the logic easy to follow and avoid unsupported claims.
 
 ## Output preferences
 
@@ -95,8 +87,6 @@ Unless I request otherwise:
 
 - For rewriting or polishing, provide the polished version first.
 - For translation, provide the translated version first and avoid unnecessary explanation.
-- For emails, include a clear subject line when useful.
-- For PPT copy, separate slide title and slide body clearly.
 - For reports or summaries, use clear sections and concise bullet points.
 - Briefly explain major changes only when it helps me learn or review.
 

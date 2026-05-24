@@ -1,6 +1,6 @@
 ---
 name: my-customer-email
-description: Write, rewrite, polish, or translate customer-facing emails in Chinese and English — including follow-up messages, sample and testing updates, quotation communication, meeting scheduling, technical clarifications, polite reminders, and post-holiday reconnect. Apply this skill whenever the task involves customer correspondence or client outreach, even when the user doesn't explicitly say "email."
+description: Write, rewrite, polish, or translate customer-facing emails in Chinese and English — including follow-up messages, sample and testing updates, quotation communication, meeting scheduling, technical clarifications, polite reminders, and post-holiday reconnect. Apply this skill whenever the task involves customer email correspondence, even when the user doesn't explicitly say "email."
 ---
 
 # My Customer Email
@@ -9,7 +9,7 @@ description: Write, rewrite, polish, or translate customer-facing emails in Chin
 
 Handles customer-facing email in Chinese and English: writing, rewriting, polishing, and translation.
 
-This skill builds on `my-writing-style` for baseline tone, clarity, and translation principles. It adds structure and guidance specific to customer email.
+For general tone and wording preferences, refer to `my-writing-style`. This skill focuses on customer email structure, scenarios, and conventions.
 
 ## When to use
 

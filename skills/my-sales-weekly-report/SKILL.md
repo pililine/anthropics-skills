@@ -24,7 +24,7 @@ Use these sections unless I specify otherwise:
 One brief entry per active account or project: current status, what progressed this week, and the immediate next step. Flag anything stuck or at risk.
 
 **3. Pipeline and Opportunities**
-Active opportunities with stage and expected timing. Note changes from last week. Skip opportunities with no movement unless they need attention.
+Active opportunities with stage and expected timing. Note changes from last week if last week's report or context is provided; otherwise, describe the current status only. Skip opportunities with no movement unless they need attention.
 
 **4. Risks and Blockers**
 Specific issues that could affect timeline, result, or the customer relationship. Be concrete — vague risks are not useful.
