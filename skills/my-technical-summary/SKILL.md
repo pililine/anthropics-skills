@@ -1,6 +1,6 @@
 ---
 name: my-technical-summary
-description: Organize and write technical exchange summaries, customer meeting notes, sample testing feedback, product application discussions, and technical clarification documents in Chinese and English. Use this skill whenever the task involves summarizing a technical conversation, documenting test results or technical requirements, or capturing action items from a technical meeting — even when the user just says "help me write up what we discussed."
+description: Organize and write technical exchange summaries, customer meeting notes, sample testing feedback, product application discussions, and technical clarification documents in Chinese and English. Use this skill whenever the task involves summarizing a technical conversation, documenting test results or technical requirements, or capturing action items from a technical meeting — even when the user says "help me write up what we discussed technically" or "help me document our product discussion."
 ---
 
 # My Technical Summary
