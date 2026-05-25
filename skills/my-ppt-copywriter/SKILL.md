@@ -1,6 +1,6 @@
 ---
 name: my-ppt-copywriter
-description: Write, structure, or polish PPT copy and slide content in Chinese and English — including slide titles, key messages, slide body bullets, deck structure, and optional speaker notes. Use this skill for sales presentations, customer visit decks, product introductions, technical exchange decks, business reviews, and any task where content needs to be shaped into slide format, even when the user doesn't explicitly say "PPT."
+description: Write, structure, or polish PPT copy and slide content in Chinese and English — including slide titles, key messages, slide body bullets, deck structure, and optional speaker notes. Use this skill when the primary deliverable is slide content: sales presentations, customer visit decks, product introductions, technical exchange decks, and business reviews. Trigger even when the user doesn't explicitly say "PPT" but the output should be slides (e.g., "deck," "presentation," "slides"). Do NOT trigger when the task is to summarize or document a meeting or discussion — use my-technical-summary for that, even if the user mentions wanting slides afterward.
 ---
 
 # My PPT Copywriter

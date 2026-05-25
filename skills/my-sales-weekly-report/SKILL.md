@@ -1,6 +1,6 @@
 ---
 name: my-sales-weekly-report
-description: Organize, write, or polish a sales weekly report — including customer progress summaries, project pipeline updates, opportunity tracking, risk identification, support requests, and next-week plans. Use this skill whenever the task involves a weekly sales report or summarizing scattered customer and project updates into a structured report, even if the user just says "help me write this week's report."
+description: Organize, write, or polish a backward-looking sales report — covering what happened in a completed period (week, month, or other interval): customer visit summaries, project pipeline updates, opportunity tracking, risk identification, and support requests. Use this skill when the task is to report on what has already occurred, not to plan what comes next. Trigger even if the user just says "help me write this week's report" or "summarize this month's progress." For forward-looking planning, use my-sales-plan-builder instead.
 ---
 
 # My Sales Weekly Report
