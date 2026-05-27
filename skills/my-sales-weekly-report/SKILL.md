@@ -17,23 +17,34 @@ This skill follows the style principles in `my-writing-style` and adds report-sp
 
 Use these sections unless I specify otherwise:
 
+**0. Opening Summary** (optional, 1–3 bullets)
+Numerical snapshot of the period: how many customers contacted, orders or shipments submitted, key opportunities advanced, or pending items flagged. No adjectives about whether the week was "good" or "busy" — just numbers and what they indicate.
+Example pattern (Chinese): 「本周围绕 X 笔订单、Y 个重点项目、Z 个待跟进事项展开。重点推进 [Project A]；后续动作集中在：[类型 A] / [类型 B]。」
+
 **1. This Week's Highlights**
 2–4 bullet points. Key results, wins, or notable developments. Lead with outcomes, not activities.
 
 **2. Customer and Project Updates**
-One brief entry per active account or project: current status, what progressed this week, and the immediate next step. Flag anything stuck or at risk.
+One entry per active account or project. Keep each entry separate — do not mix customers. Use this structure for each:
+
+**[Customer / Project name]**
+- 本周进展: what actually happened this week — specific and factual, not intentions
+- 下一步: who does what next — name the owner and the action, not just the goal
+
+Flag anything stuck or at risk here, and repeat it in Section 4 (Risks).
 
 **3. Pipeline and Opportunities**
 Active opportunities with stage and expected timing. Note changes from last week if last week's report or context is provided; otherwise, describe the current status only. Skip opportunities with no movement unless they need attention.
 
 **4. Risks and Blockers**
 Specific issues that could affect timeline, result, or the customer relationship. Be concrete — vague risks are not useful.
+Mark high-priority risks with ⚠️. Format: ⚠️ [Risk name]: [specific situation] — [impact if unresolved] — [who needs to act / what decision is needed].
 
 **5. Support Needed**
 What requires approval, resources, or action from others. State who needs to do what, and by when.
 
 **6. Next Week Plan**
-3–5 specific actions tied to customer or opportunity outcomes, not just activities.
+3–5 specific actions tied to customer or opportunity outcomes, not just activities. Each action must name who does what: [Customer/Project] — [owner or team] — [action] — [by when]. Do not write vague intentions like "follow up" or "continue discussion" without specifying what and who.
 
 ## Organizing scattered input
 
@@ -62,6 +73,8 @@ Do not present a judgment as a fact. Do not bury a risk inside a progress update
 - Use specific numbers, names, and dates where available.
 - Lead each section with what matters most.
 - If the user provides raw notes, shape them into the report structure — do not just reformat.
+- When there are multiple pending items, use a table with columns: 优先级 (🔴 高 / 🟡 中 / 🔵 低) / 事项 / 下一步 / 涉及方 / 状态. One row per item. The "下一步" column must be a specific action, not a repeat of the "事项".
+- If data in the user's notes is ambiguous or unverifiable, mark it explicitly (e.g., "⚠️ 需确认"). Do not silently smooth over gaps.
 
 ## Avoid
 

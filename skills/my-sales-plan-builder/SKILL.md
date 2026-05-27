@@ -46,6 +46,7 @@ Resources, approvals, samples, technical support, or headcount required. State w
 
 **7. Key Assumptions and Risks**
 What this plan assumes to be true. What could derail it and how serious each risk is.
+For each risk, state three things: what could happen, what it would affect (revenue, timeline, relationship), and what the contingency or mitigation is. A risk with no impact statement or response direction is not useful.
 
 ## Customer categories
 
@@ -70,6 +71,7 @@ When breaking down a sales target:
 - Identify how much needs to come from developing accounts and new targets.
 - Be explicit about the gap: if targets require new revenue, name where it is expected to come from.
 - Do not back-fill with vague growth assumptions — state what is real and what is aspirational.
+- Label each contribution as confirmed (已确认) or estimated/assumed (估算 / 假设). Developing accounts and new targets are almost always estimates — say so. Do not present an aspirational number as a committed forecast.
 
 ## Writing an action plan
 
